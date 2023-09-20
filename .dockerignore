@@ -1,0 +1,12 @@
+# Files
+.DS_Store
+appsettings.Development.json
+Dockerfile
+.gitignore
+
+# Directories
+.vs/
+bin/
+obj/
+.github
+.git
